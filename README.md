@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil
-- 👀 I’m interested in ...Coding & Learn New Skills
+- 👀 I’m interested in ...Coding & Learn A New Skills
 - 🌱 I’m currently learning ...FullStack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
