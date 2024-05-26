@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A junior software engineer from Türkiye</h3>
+
+- 💬 Ask me about **Javascript, React.js, Node.js etc.**
+
+
+
 - 👋 Hi, I’m Nikhil
 - 👀 I’m interested in ...Coding & Learn A New Skills
 - 🌱 I’m currently learning ...FullStack Developer
